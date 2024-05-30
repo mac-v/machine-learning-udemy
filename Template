@@ -1,0 +1,89 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMOSZbCirNkzqmwgME+4thI",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/mac-v/machine-learning-udemy/blob/main/Template\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "iDKefvWtK7pO",
+        "outputId": "40d61a18-4235-4d85-b938-4b4e01dc3090"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello colab\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hello colab\")"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Przykładowy tekst"
+      ],
+      "metadata": {
+        "id": "x4GNSr-6LlPc"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "dVUjtBoALkvy"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Nowa sekcja"
+      ],
+      "metadata": {
+        "id": "Zmc2D6QkLvMM"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "H4WQJgHNL-64"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
